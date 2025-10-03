@@ -65,9 +65,9 @@
 
 ---
 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=HusHexist.HusHexist)
+<!--![Visitors](https://visitor-badge.laobi.icu/badge?page_id=HusHexist.HusHexist)
 
----
+---->
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=fsiydt22avuxcnr9xuxyalws6&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&mode=light&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=fsiydt22avuxcnr9xuxyalws6&redirect=true)
 <p align="center">
@@ -78,8 +78,11 @@
   </picture>
 </p>
 
----
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!;Come+back+soon+%F0%9F%98%8A;Stay+awesome+and+keep+coding!" alt="Typing SVG" />
 </p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,100:FF79C6&height=120&section=footer" />
+</p>
+
