@@ -1,9 +1,16 @@
 name: Generate Snake Animation
 
+# 👇 Give the workflow permission to push to your repo
+permissions:
+  contents: write
+
 on:
   schedule:
-    - cron: "0 0 * * *"   # Runs every day at midnight
-  workflow_dispatch:       # Allows manual run
+    - cron: "0 0 * * *"   # Runs every day at midnight UTC
+  workflow_dispatch:       # Allows you to trigger it manually
+  push:
+    branches:
+      - main               # Also runs whenever you push to main
 
 jobs:
   build:
