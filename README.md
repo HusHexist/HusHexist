@@ -71,4 +71,8 @@
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=fsiydt22avuxcnr9xuxyalws6&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&mode=light&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=fsiydt22avuxcnr9xuxyalws6&redirect=true)
 
-![Snake animation](https://github.com/HusHexist/HusHexist/blob/output/github-contribution-grid-snake.svg)
+## 🐍 Contribution Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/HusHexist/HusHexist/output/dist/snake.svg" alt="Snake animation" />
+</p>
+
