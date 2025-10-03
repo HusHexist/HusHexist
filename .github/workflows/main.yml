@@ -2,8 +2,8 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # runs every day at midnight
-  workflow_dispatch:      # allows manual run
+    - cron: "0 0 * * *"   # Runs every day at midnight
+  workflow_dispatch:       # Allows manual run
 
 jobs:
   build:
@@ -11,22 +11,33 @@ jobs:
 
     steps:
       - name: Checkout repo content
-        uses: actions/checkout@v4   # updated
+        uses: actions/checkout@v4
 
-      - name: Generate snake.svg
+      - name: Generate dark snake
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: HusHexist
-          outputs: dist/snake.svg
+          outputs: dist/snake-dark.svg
+          palette: github-dark
 
-      - name: Upload artifact
-        uses: actions/upload-artifact@v4   # updated
+      - name: Generate light snake
+        uses: Platane/snk/svg-only@v3
         with:
-          name: snake
-          path: dist/snake.svg
+          github_user_name: HusHexist
+          outputs: dist/snake-light.svg
+          palette: github-light
 
-      - name: Push Snake to output branch
-        uses: EndBug/add-and-commit@v9
+      - name: Generate Tokyo Night snake
+        uses: Platane/snk/svg-only@v3
         with:
-          message: "Generated snake animation"
-          add: "dist/snake.svg"
+          github_user_name: HusHexist
+          outputs: dist/snake-tokyo.svg
+          palette: tokyonight
+
+      - name: Push snakes to output branch
+        uses: crazy-max/ghaction-github-pages@v3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
