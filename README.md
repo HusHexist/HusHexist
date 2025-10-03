@@ -1,5 +1,5 @@
 <!-- Banner -->
-
+## 🛠 STILL IN DEVELOPMENT STAGE 🛠
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=blur&color=auto&height=300&section=header&text=HusH%20Exist&fontSize=90" />
 </p>
