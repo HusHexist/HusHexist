@@ -69,7 +69,11 @@
 
 ---->
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=fsiydt22avuxcnr9xuxyalws6&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&mode=light&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=fsiydt22avuxcnr9xuxyalws6&redirect=true)
+<p align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=fsiydt22avuxcnr9xuxyalws6&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=fsiydt22avuxcnr9xuxyalws6&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&mode=dark&bar_color=53b14f&bar_color_cover=true">
+  </a>
+</p>
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HusHexist/HusHexist/output/snake-dark.svg" />
