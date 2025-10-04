@@ -1,20 +1,22 @@
 <!-- Banner -->
 ## 🛠 STILL IN DEVELOPMENT STAGE 🛠
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=blur&color=auto&height=300&section=header&text=HusH%20Exist&fontSize=90" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=HusH%20Exist&fontSize=70" />
 </p>
 
 <!-- Social links -->
 <p align="center">
   <a href="https://instagram.com/hussseinn_" target="_blank">
-    <img width="50" height="50" alt="Instagram" 
-         src="https://github.com/user-attachments/assets/0cf7c2da-bdee-45cf-9e71-ddba2b3994db" />
+    <img src="https://skillicons.dev/icons?i=instagram" width="50" height="50" />
   </a>
-    <a href="https://instagram.com/hussseinn_" target="_blank">
-    <img width="50" height="50" alt="Instagram" 
-         src="https://github.com/user-attachments/assets/0cf7c2da-bdee-45cf-9e71-ddba2b3994db" />
+  <a href="https://twitter.com/HusHexist" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" width="50" height="50" />
+  </a>
+  <a href="https://linkedin.com/in/husein-mahdi-6a0516388" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="50" height="50" />
   </a>
 </p>
+
 
 <p align="center">How did you find me?</p>
 
@@ -49,7 +51,7 @@
 
 ## 🛠 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,linux,git" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,laravel,linux,ts,python" />
 </p>
 
 ---
