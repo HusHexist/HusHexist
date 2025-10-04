@@ -3,17 +3,20 @@
 ![Header](./github-header-banner.png)
 
 <!-- Social links -->
-<p align="center">
+<div align="center">
   <a href="https://instagram.com/hussseinn_" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" width="50" height="50" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
-  <a href="https://twitter.com/HusHexist" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" width="50" height="50" />
+  <a href="https://x.com/HusHexist" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
   </a>
-  <a href="https://linkedin.com/in/husein-mahdi-6a0516388" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="50" height="50" />
+  <a href="https://discord.com/users/479569706303488000" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
-</p>
+  <a href="https;//linkedin.com/in/husein-mahdi-6a0516388" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+</div>
 
 
 <p align="center">How did you find me?</p>
@@ -74,13 +77,11 @@
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=fsiydt22avuxcnr9xuxyalws6&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&mode=dark&bar_color=53b14f&bar_color_cover=true">
   </a>
 </p>
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HusHexist/HusHexist/output/snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HusHexist/HusHexist/output/snake-light.svg" />
-    <img alt="github contribution snake" src="https://raw.githubusercontent.com/HusHexist/HusHexist/output/snake-dark.svg" />
-  </picture>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HusHexist/HusHexist/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HusHexist/HusHexist/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/HusHexist/HusHexist/output/pacman-contribution-graph.svg">
+</picture>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!;Come+back+soon+%F0%9F%98%8A;Stay+awesome+and+keep+coding!" alt="Typing SVG" />
