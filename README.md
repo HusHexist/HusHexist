@@ -1,8 +1,6 @@
 <!-- Banner -->
-## 🛠 STILL IN DEVELOPMENT STAGE 🛠
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=HusH%20Exist&fontSize=70" />
-</p>
+# 🛠 STILL IN DEVELOPMENT STAGE 🛠
+![Header](./github-header-banner.png)
 
 <!-- Social links -->
 <p align="center">
@@ -43,13 +41,13 @@
     "DevOps"
   ]
 
-  currently_learning: ["Start Over From the Beginning"]
+  currently_studying: ["At Islamic University of Kalimantan Moch. Arsyad Al-Banjari"]
   hobbies: ["Gaming", "Cinema", "Swiming"]
  ```
 
 ---
 
-## 🛠 Tech Stack
+## Skills
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,laravel,linux,ts,python" />
 </p>
